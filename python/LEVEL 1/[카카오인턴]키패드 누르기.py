@@ -52,3 +52,4 @@ def solution(numbers, hand):
                     answer+='R'
                     right=i
     return answer
+
